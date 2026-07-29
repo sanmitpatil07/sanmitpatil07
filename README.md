@@ -145,23 +145,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📡 AI NOC Copilot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Telemetry-Real--Time-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-NOC_Triage-BC8CFF?style=flat-square" />
-      </p>
-      <p>Automated Network Operations Center (NOC) copilot engineering high-throughput telemetry ingestion pipelines, anomaly detection, and real-time incident triage.</p>
-      <ul>
-        <li><b>Architecture:</b> Async telemetry stream processor with LLM incident root-cause diagnosis.</li>
-        <li><b>Tech:</b> Python, Telemetry Streaming, FastAPI, Prometheus, LLM Copilot.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/sanmitpatil07/ai-noc-copilot"><b>📁 View Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🤖 AutoBureau AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-Chrome_Extension-38BDF8?style=flat-square" />
@@ -176,9 +159,6 @@
         <a href="https://github.com/sanmitpatil07/auto-bureaucracy-ai"><b>📁 View Repository »</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🪖 Smart Safety Helmet IoT</h3>
-      <p align="center">
   </tr>
   <tr>
     <td width="50%" valign="top">
