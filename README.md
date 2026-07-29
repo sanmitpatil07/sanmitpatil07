@@ -130,21 +130,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌍 Climate Guardian AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI--Agents-LangChain-58A6FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square" />
-      </p>
-      <p>An autonomous multi-agent climate surveillance engine designed for real-time anomaly detection, satellite telemetry analysis, and predictive disaster mitigation.</p>
-      <ul>
-        <li><b>Architecture:</b> Multi-agent orchestration loop with dynamic task delegation.</li>
-        <li><b>Tech:</b> Python, LangChain, FastAPI, Vector Embeddings.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/sanmitpatil07/climate-guardian-ai"><b>📁 View Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">⚡ SanFlow AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-SanFlow-3FB950?style=flat-square" />
@@ -159,8 +144,6 @@
         <a href="https://github.com/sanmitpatil07/sanflow"><b>📁 View Repository »</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📡 AI NOC Copilot</h3>
       <p align="center">
@@ -176,6 +159,8 @@
         <a href="https://github.com/sanmitpatil07/ai-noc-copilot"><b>📁 View Repository »</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AutoBureau AI</h3>
       <p align="center">
@@ -191,8 +176,6 @@
         <a href="https://github.com/sanmitpatil07/auto-bureaucracy-ai"><b>📁 View Repository »</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🪖 Smart Safety Helmet IoT</h3>
       <p align="center">
@@ -206,6 +189,23 @@
       </ul>
       <p align="center">
         <a href="https://github.com/sanmitpatil07/smart-safety-helmet"><b>📁 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 Climate Guardian AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI--Agents-LangChain-58A6FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square" />
+      </p>
+      <p>An autonomous multi-agent climate surveillance engine designed for real-time anomaly detection, satellite telemetry analysis, and predictive disaster mitigation.</p>
+      <ul>
+        <li><b>Architecture:</b> Multi-agent orchestration loop with dynamic task delegation.</li>
+        <li><b>Tech:</b> Python, LangChain, FastAPI, Vector Embeddings.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanmitpatil07/climate-guardian-ai"><b>📁 View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
