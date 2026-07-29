@@ -1,0 +1,36 @@
+name: Update Daily Dev Quote & Profile Metrics
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch & Update Daily Developer Quote
+        run: |
+          QUOTES=(
+            "\"Simplicity is a prerequisite for reliability.\" — Edsger W. Dijkstra"
+            "\"First, solve the problem. Then, write the code.\" — John Johnson"
+            "\"Complexity is the enemy of security.\" — Bruce Schneier"
+            "\"The best way to predict the future is to invent it.\" — Alan Kay"
+            "\"Code is like humor. When you have to explain it, it’s bad.\" — Cory House"
+            "\"Make it work, make it right, make it fast.\" — Kent Beck"
+          )
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          echo "Selected Quote: $RANDOM_QUOTE"
+          
+          # Replace quote line in README.md
+          sed -i "s|> — \*\*.*?\*\*|> $RANDOM_QUOTE|g" README.md || true
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update daily dev quote [skip ci]"
+          branch: main

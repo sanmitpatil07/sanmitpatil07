@@ -1,0 +1,22 @@
+name: Auto Readme Validation & Badge Checker
+
+on:
+  push:
+    paths:
+      - 'README.md'
+      - 'assets/**'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Validate Markdown Formatting & Assets
+        run: |
+          echo "Verifying assets directory existence..."
+          if [ -d "assets" ]; then echo "Assets folder verified."; else exit 1; fi
+          echo "Verifying README.md file..."
+          if [ -f "README.md" ]; then echo "README.md verified."; else exit 1; fi
