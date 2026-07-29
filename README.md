@@ -171,18 +171,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Emergency Dispatch System (EDS)</h3>
+      <h3 align="center">🤖 AutoBureau AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Systems-FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Chrome_Extension-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-Node.js_%7C_Supabase-009688?style=flat-square" />
       </p>
-      <p>High-concurrency emergency incident routing platform designed for real-time dispatch management and low-latency GIS spatial querying.</p>
+      <p>AI-powered government & institutional form automation assistant with smart field mapping, eligibility checks, and automated document validation.</p>
       <ul>
-        <li><b>Performance:</b> Sub-50ms dispatch latency under high request concurrency.</li>
-        <li><b>Tech:</b> Python, FastAPI, Docker, PostgreSQL.</li>
+        <li><b>Architecture:</b> Manifest V3 Chrome Extension + LLM Field Mapper & Supabase Vault.</li>
+        <li><b>Tech:</b> TypeScript, Manifest V3, OpenAI/Claude API, Supabase, Tailwind.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/sanmitpatil07/EDS"><b>📁 View Repository »</b></a>
+        <a href="https://github.com/sanmitpatil07/auto-bureaucracy-ai"><b>📁 View Repository »</b></a>
       </p>
     </td>
   </tr>
