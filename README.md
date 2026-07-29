@@ -9,7 +9,7 @@
 
 <!-- Animated Header Typing Banner -->
 <a href="https://github.com/sanmitpatil07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vcenter=true&width=750&height=60&lines=AI+Engineer+%7C+Autonomous+Systems+Architect;Cybersecurity+Enthusiast+%7C+Offensive+Security;Building+Red-Teamed+AI+Agents+%26+RAG+Pipelines;Linux+%26+Kali+Kernel+Specialist;Hackathon+Winner+%26+Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vcenter=true&width=750&height=60&lines=AI+Engineer+%7C+Telemetry+Pipeline+Architect;High-Throughput+Telemetry+Ingestion+Pipelines;Autonomous+AI+Agents+%26+AI+NOC+Copilot;Cybersecurity+Enthusiast+%7C+Offensive+Security;Linux+%26+Kali+Kernel+Specialist" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,14 +26,14 @@
     <img src="https://img.shields.io/github/stars/sanmitpatil07?style=for-the-badge&color=BC8CFF&labelColor=0D1117" alt="Stars" />
   </a>
   <a href="https://github.com/sanmitpatil07">
-    <img src="https://img.shields.io/badge/Status-Building_Autonomous_AI-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Telemetry_Pipelines_%26_AI-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Status" />
   </a>
 </p>
 
 ---
 
 ### 🌐 Architectural Focus & Engineering Philosophy
-> *"Engineering at the intersection of Autonomous AI Agents, Deep Learning, and Cyber Threat Resilience."*
+> *"Engineering at the intersection of Autonomous AI Agents, High-Throughput Telemetry Pipelines, Deep Learning, and Cyber Threat Resilience."*
 
 </div>
 
@@ -46,18 +46,23 @@
 └─$ cat profile.json
 {
   "name": "Sanmit Patil",
-  "title": "AI Engineer & Cybersecurity Specialist",
+  "title": "AI Engineer & Telemetry Pipeline Specialist",
   "location": "Pune, Maharashtra, India 🇮🇳",
+  "specializations": {
+    "telemetry_engineering": "High-Throughput Ingestion Pipelines, Stream Processing, AI NOC Copilot Triage",
+    "ai_agents": "Autonomous Agentic Workflows (LangGraph, CrewAI, AutoGen)",
+    "security": "LLM Red-Teaming & Adversarial Security"
+  },
   "core_competencies": [
-    "Autonomous AI Agents (LangGraph, CrewAI, AutoGen)",
-    "AI NOC Copilot & High-Throughput Telemetry Ingestion Pipelines",
-    "RAG & Vector Retrieval Systems (LlamaIndex, Qdrant)",
-    "LLM Red-Teaming & Adversarial Security",
-    "High-Performance Linux Kernel & Shell Systems",
-    "Full-Stack AI Workflows & Distributed Microservices"
+    "📡 High-Throughput Telemetry Ingestion & Stream Processing Pipelines",
+    "🤖 AI NOC Copilot & Automated Incident Root-Cause Triage",
+    "🧠 Autonomous AI Agents (LangGraph, CrewAI, AutoGen)",
+    "🔍 RAG & Vector Retrieval Systems (LlamaIndex, Qdrant)",
+    "🛡️ LLM Red-Teaming & Adversarial Security",
+    "🐧 High-Performance Linux Kernel & Shell Systems"
   ],
   "operating_systems": ["Kali Linux", "Arch Linux", "Ubuntu Server"],
-  "mission": "Architecting resilient, production-ready AI systems hardened against security vulnerabilities."
+  "mission": "Architecting low-latency telemetry pipelines and resilient, production-grade AI systems."
 }
 ```
 
