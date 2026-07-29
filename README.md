@@ -50,6 +50,7 @@
   "location": "Pune, Maharashtra, India 🇮🇳",
   "core_competencies": [
     "Autonomous AI Agents (LangGraph, CrewAI, AutoGen)",
+    "AI NOC Copilot & High-Throughput Telemetry Ingestion Pipelines",
     "RAG & Vector Retrieval Systems (LlamaIndex, Qdrant)",
     "LLM Red-Teaming & Adversarial Security",
     "High-Performance Linux Kernel & Shell Systems",
@@ -183,6 +184,38 @@
       </ul>
       <p align="center">
         <a href="https://github.com/sanmitpatil07/auto-bureaucracy-ai"><b>📁 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 AI NOC Copilot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Telemetry-Real--Time-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-NOC_Triage-BC8CFF?style=flat-square" />
+      </p>
+      <p>Automated Network Operations Center (NOC) copilot engineering high-throughput telemetry ingestion pipelines, anomaly detection, and real-time incident triage.</p>
+      <ul>
+        <li><b>Architecture:</b> Async telemetry stream processor with LLM incident root-cause diagnosis.</li>
+        <li><b>Tech:</b> Python, Telemetry Streaming, FastAPI, Prometheus, LLM Copilot.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanmitpatil07/ai-noc-copilot"><b>📁 View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪖 Smart Safety Helmet IoT</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IoT-Sensors-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hardware-Arduino_C%2B%2B-009688?style=flat-square" />
+      </p>
+      <p>Intelligent industrial safety helmet prototype featuring real-time impact detection, ultrasonic obstacle sensing, SOS panic triggers, and worker hazard alerts.</p>
+      <ul>
+        <li><b>Features:</b> Active fall detection, impact absorption monitoring, LED/Buzzer SOS alarm.</li>
+        <li><b>Tech:</b> C/C++, Arduino Uno, Ultrasonic Sensors, Accelerometers, Hardware Prototyping.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanmitpatil07/smart-safety-helmet"><b>📁 View Repository »</b></a>
       </p>
     </td>
   </tr>
