@@ -208,7 +208,7 @@
         <li><b>Tech:</b> Python, Telemetry Streaming, FastAPI, Prometheus, LLM Copilot.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/sanmitpatil07/marauders-map"><b>📁 View Repository »</b></a>
+        <a href="https://github.com/ruushhdaa/marauders-map"><b>📁 View Repository »</b></a>
       </p>
     </td>
   </tr>
