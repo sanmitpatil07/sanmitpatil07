@@ -162,18 +162,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Global Superstore Analytics</h3>
+      <h3 align="center">📡 AI NOC Copilot</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Analytics-PowerBI-F2C811?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQL-Data_Pipeline-4169E1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Telemetry-Real--Time-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-NOC_Triage-BC8CFF?style=flat-square" />
       </p>
-      <p>Enterprise business intelligence ecosystem analyzing multi-region retail supply chain dynamics, profitability drivers, and inventory forecasting.</p>
+      <p>Automated Network Operations Center (NOC) copilot engineering high-throughput telemetry ingestion pipelines, anomaly detection, and real-time incident triage.</p>
       <ul>
-        <li><b>Features:</b> Interactive lineage dashboards, DAX queries, profit leak analysis.</li>
-        <li><b>Tech:</b> PowerBI, SQL, Python Data Modeling.</li>
+        <li><b>Architecture:</b> Async telemetry stream processor with LLM incident root-cause diagnosis.</li>
+        <li><b>Tech:</b> Python, Telemetry Streaming, FastAPI, Prometheus, LLM Copilot.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/sanmitpatil07/DV-Project"><b>📁 View Repository »</b></a>
+        <a href="https://github.com/sanmitpatil07/ai-noc-copilot"><b>📁 View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -194,21 +194,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📡 AI NOC Copilot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Telemetry-Real--Time-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-NOC_Triage-BC8CFF?style=flat-square" />
-      </p>
-      <p>Automated Network Operations Center (NOC) copilot engineering high-throughput telemetry ingestion pipelines, anomaly detection, and real-time incident triage.</p>
-      <ul>
-        <li><b>Architecture:</b> Async telemetry stream processor with LLM incident root-cause diagnosis.</li>
-        <li><b>Tech:</b> Python, Telemetry Streaming, FastAPI, Prometheus, LLM Copilot.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/sanmitpatil07/ai-noc-copilot"><b>📁 View Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">🪖 Smart Safety Helmet IoT</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/IoT-Sensors-F59E0B?style=flat-square" />
@@ -221,6 +206,21 @@
       </ul>
       <p align="center">
         <a href="https://github.com/sanmitpatil07/smart-safety-helmet"><b>📁 View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Global Superstore Analytics</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Analytics-PowerBI-F2C811?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-Data_Pipeline-4169E1?style=flat-square" />
+      </p>
+      <p>Enterprise business intelligence ecosystem analyzing multi-region retail supply chain dynamics, profitability drivers, and inventory forecasting.</p>
+      <ul>
+        <li><b>Features:</b> Interactive lineage dashboards, DAX queries, profit leak analysis.</li>
+        <li><b>Tech:</b> PowerBI, SQL, Python Data Modeling.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanmitpatil07/DV-Project"><b>📁 View Repository »</b></a>
       </p>
     </td>
   </tr>
