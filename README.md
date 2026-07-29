@@ -139,18 +139,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 MedAgent AI (Healthcare Bot)</h3>
+      <h3 align="center">⚡ SanFlow AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/LLM-LlamaIndex-3FB950?style=flat-square" />
-        <img src="https://img.shields.io/badge/DB-Qdrant-BC8CFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framework-SanFlow-3FB950?style=flat-square" />
+        <img src="https://img.shields.io/badge/Orchestration-DAG_Engine-BC8CFF?style=flat-square" />
       </p>
-      <p>HIPAA-compliant autonomous medical triage assistant leveraging RAG and clinical knowledge retrieval for symptom analysis and preliminary diagnosis routing.</p>
+      <p>High-performance lightweight Python framework for designing, evaluating, and executing deterministic multi-agent state workflows and DAG pipelines.</p>
       <ul>
-        <li><b>Architecture:</b> Hybrid keyword + semantic vector retrieval with prompt guards.</li>
-        <li><b>Tech:</b> Python, LlamaIndex, Qdrant Vector DB, Streamlit.</li>
+        <li><b>Architecture:</b> Async DAG state machine with dynamic agent branching & fallback loops.</li>
+        <li><b>Tech:</b> Python, FastAPI, AsyncIO, Pydantic, Vector Store.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/sanmitpatil07/healthcare-bot"><b>📁 View Repository »</b></a>
+        <a href="https://github.com/sanmitpatil07/sanflow"><b>📁 View Repository »</b></a>
       </p>
     </td>
   </tr>
